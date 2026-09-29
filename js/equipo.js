@@ -5,7 +5,7 @@
 // Campos: nombre (mín. 3 letras), rol, github (tu usuario real)
 
 export const equipo = [
-  { nombre: "Deyanira Gallardo García", rol: "Líder de proyecto", github: "Deyanira_7276" },
+  { nombre: "Deyanira Gallardo García", rol: "Líder de proyecto", github: "DEYA7276" },
 
   // --- Integrante 1 ---
 
