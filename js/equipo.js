@@ -10,7 +10,7 @@ export const equipo = [
   { nombre: "Adriana Fabiola García García", rol: "Desarrolladora Frontend", github: "Adytw" },
 
   // --- Integrante 2 ---
-
+ 
   // --- Integrante 3 ---
 
   // --- Integrante 4 ---
