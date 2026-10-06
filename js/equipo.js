@@ -7,7 +7,7 @@
 export const equipo = [
   { nombre: "Deyanira Gallardo García", rol: "Líder de proyecto", github: "DEYA7276" },
 
-  { nombre: "Adriana Fabiola García García", rol: "Desarrolladora Frontend", github: "Adytw" },
+  { nombre: "Adriana Fabiola García García", rol: "Project Manager", github: "Adytw" },
 
   // --- Integrante 2 ---
  
