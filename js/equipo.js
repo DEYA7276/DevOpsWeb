@@ -11,7 +11,7 @@ export const equipo = [
 
   // --- Integrante 2 ---
  
-  { nombre: "Prueba Rota", rol: "QA", github: "usuario con espacios"},
+  { nombre: "Prueba Rota", rol: "QA", github: "usuario-valido"},
   // --- Integrante 3 ---
 
   // --- Integrante 4 ---
