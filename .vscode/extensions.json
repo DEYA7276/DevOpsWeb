@@ -4,6 +4,7 @@
     "github.vscode-github-actions",
     "eamodio.gitlens",
     "mhutchie.git-graph",
-    "ritwickdey.liveserver"
+    "ritwickdey.liveserver",
+    "Webnative.webnative"
   ]
 }
